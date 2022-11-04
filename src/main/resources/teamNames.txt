@@ -1,0 +1,68 @@
+    
+Team Rock
+    {
+      "summonerName": "gigabitsofwit"
+    },
+    {
+      "summonerName": "Essentia1Oil"
+    },
+    {
+      "summonerName": "H0K1M0K1"
+    },
+    {
+      "summonerName": "CraftyGuy"
+    },
+    {
+      "summonerName": "Jokkioxx"
+    }
+
+Team Fire
+    {
+      "summonerName": "TheFlyingBannana"
+    },
+    {
+      "summonerName": "Taegondy"
+    },
+    {
+      "summonerName": "Dspac3"
+    },
+    {
+      "summonerName": "Sir Squishington"
+    },
+    {
+      "summonerName": "Moone"
+    }
+
+Team Brock
+    {
+      "summonerName": "Lusantia"
+    },
+    {
+      "summonerName": "TitaniumTitan43"
+    },
+    {
+      "summonerName": "Bbygrls"
+    },
+    {
+      "summonerName": "Dyrus Bot"
+    },
+    {
+      "summonerName": "TimesAndSeasons"
+    }
+
+Team Kick
+    {
+      "summonerName": "Carpe Dio"
+    },
+    {
+      "summonerName": "kinlly"
+    },
+    {
+      "summonerName": "Crimsonn Chin"
+    },
+    {
+      "summonerName": "Dallin"
+    },
+    {
+      "summonerName": "DevolaPopola"
+    }
